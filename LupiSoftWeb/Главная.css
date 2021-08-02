@@ -1,0 +1,77 @@
+.u-section-1 {
+  background-image: url("images/LupiSoft-banner.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 75px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 826px;
+  margin: 15px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 279px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 1.25rem;
+  animation-duration: 1000ms;
+  margin: 30px auto 60px;
+  padding: 18px 71px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 279px;
+}
+
+.u-section-3 .u-text-1 {
+  width: 507px;
+  margin: 64px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 1.25rem;
+  animation-duration: 1000ms;
+  margin: 24px auto 60px;
+  padding: 14px 39px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    width: 340px;
+  }
+}
